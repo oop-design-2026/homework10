@@ -1,0 +1,12 @@
+=== Problem 5: Function Template Overloading ===
+[Part 1] Overload Resolution
+[int overload] value = 42
+[template] value = 3.14
+[template] value = hello
+[Part 2] Explicit Template Argument forces Template
+[template] value = 42
+[template] value = 42
+[Part 3] Default Template Argument (C++11)
+N = 10
+N = 5
+N = 20
